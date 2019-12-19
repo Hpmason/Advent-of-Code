@@ -19,7 +19,7 @@ def calculate_total_fuel(o_mass: int) -> int:
 
 def main():
     # Open input file
-    with open("inputs/puzzle1.txt", "r") as f:
+    with open("inputs/day1.txt", "r") as f:
         total_fuel_p1 = 0
         total_fuel_p2 = 0
         # Iterate through each line of the input file
